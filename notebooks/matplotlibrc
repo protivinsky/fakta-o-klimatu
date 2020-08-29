@@ -10,6 +10,9 @@ figure.subplot.bottom : 0.1
 figure.subplot.right : 0.96
 figure.subplot.top : 0.96
 
+# text
+font.size : 8
+
 # axes
 axes.spines.left : True
 axes.spines.bottom : True

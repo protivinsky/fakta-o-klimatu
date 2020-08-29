@@ -1,5 +1,8 @@
+eurostat
+matplotlib
 numpy
 pandas
-matplotlib
-eurostat
 requests_cache 
+seaborn
+world_bank_data
+xlrd
