@@ -15,3 +15,8 @@ At the moment there are only a few example notebooks:
 ![EU emissions per capita infographic](https://faktaoklimatu.cz/assets/infographics/emise-eu-na-osobu_600.png)
 
 - [Datasets](notebooks/datasets.ipynb) – a notebook giving a quick summary of available datasets provided in CSV files (these datasets are created in detail in the other notebooks)
+
+-----
+
+Notebook s tropickymi dny od Mojzise Stupky:
+https://deepnote.com/publish/719c9638-517e-4ad9-aa52-3f89c7f77309
