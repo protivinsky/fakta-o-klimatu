@@ -6,3 +6,5 @@ requests_cache
 seaborn
 world_bank_data
 xlrd
+jupyterlab
+
